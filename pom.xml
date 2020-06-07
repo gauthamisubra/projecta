@@ -10,8 +10,9 @@
     <distributionManagement>
         <repository>
             <id>repositery</id>
-            <url>https://github.com/gauthamisubra/mavenrepo</url>
+            <url>file://${project.build.directory}/mvn-repo</url>
         </repository>
+
     </distributionManagement>
 
 
