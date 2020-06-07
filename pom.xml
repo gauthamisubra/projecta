@@ -10,7 +10,7 @@
     <distributionManagement>
         <repository>
             <id>internal</id>
-            <url>https://github.com/gauthamisubra/mavenrepo</url>
+            <url>https://github.com/gauthamisubra/mavenrepo.git</url>
         </repository>
     </distributionManagement>
 
